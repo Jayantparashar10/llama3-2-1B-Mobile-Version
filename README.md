@@ -12,15 +12,12 @@ This repository contains an implementation of the LLaMA model architecture conve
 - 🔄 Streamlined inference pipeline
 
 ## Requirements
-- Python 3.8+
+- Python 3.10
 - PyTorch 2.0+
 - ExecutorTorch
-- transformers
-- Additional dependencies in `requirements.txt`
 
 For more details about implementation and deployment using ExecutorTorch, please visit:
 - [ExecutorTorch Documentation](https://github.com/pytorch/executorch/tree/main)
-- [ExecutorTorch Installation Guide](https://github.com/pytorch/executorch/blob/main/INSTALL.md)
 - [ExecutorTorch Examples](https://github.com/pytorch/executorch/tree/main/examples)
 
 ## Contact
